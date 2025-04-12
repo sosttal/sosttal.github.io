@@ -1,1 +1,0 @@
-# sosttal.github.io
