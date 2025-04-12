@@ -34,6 +34,9 @@ plugins:
 - jekyll-feed
 # - jekyll-remote-theme # this dont seem to work :/ TODO: figure it out?
 
+minima:
+  skin: dark
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -54,5 +57,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include:
-- _sass/
+## not needed (?)
+# include:
+# - _sass/
